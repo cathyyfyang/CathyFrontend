@@ -1,0 +1,1 @@
+setupFiles: ['<rootDir>/jes/setup.js','jest-canvas-mock']
